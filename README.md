@@ -133,9 +133,18 @@ Wishlist functionality
 
 OTP email verification
 
-👨‍💻 Author
+👨‍💻 Authors
 Tushar Paliwal
 LinkedIn - https://www.linkedin.com/in/tushar-paliwal-592418138/  | GitHub - https://github.com/TusharPaliwal13
+
+Yash Sahu 
+Linkedin- https://www.linkedin.com/in/yash-sahu-9198462a2 | GitHub- https://github.com/Yashsahu22 
+
+Sushil Lohar
+Linkedin - https://www.linkedin.com/in/sushil-lohar-90a33a25a | Github - https://github.com/code-with-sushil09
+
+Sumit Prajapat
+Linkedin - | Github -
 
 
 
