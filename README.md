@@ -121,6 +121,9 @@ Stripe Checkout <img width="1278" height="572" alt="image" src="https://github.c
 
 Orders Dashboard <img width="1261" height="584" alt="image" src="https://github.com/user-attachments/assets/cffcc12e-bf69-41bd-ac68-dd7bee0af851" />
 
+Seller DashBoard <img width="1266" height="572" alt="image" src="https://github.com/user-attachments/assets/4f6584b2-5b75-4191-ae71-f2a63454f271" />
+
+
 
 ✨ Future Improvements
 Admin dashboard for sellers
