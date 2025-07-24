@@ -133,7 +133,8 @@ Wishlist functionality
 
 OTP email verification
 
-👨‍💻 Authors
+**👨‍💻 Authors**
+
 Tushar Paliwal
 LinkedIn - https://www.linkedin.com/in/tushar-paliwal-592418138/  | GitHub - https://github.com/TusharPaliwal13
 
