@@ -113,7 +113,7 @@ Product Details <img width="1265" height="590" alt="image" src="https://github.c
 Cart Page <img width="1262" height="542" alt="image" src="https://github.com/user-attachments/assets/0473cb0d-bd72-44b2-8113-535ffd08ea9c" />
 
 
-Different Payment Methods <img width="1262" height="541" alt="image" src="https://github.com/user-attachments/assets/aeb05367-fd47-4329-aad2-fff59c574b19" />
+Different Payment Methods ( Online / COD ) <img width="1262" height="541" alt="image" src="https://github.com/user-attachments/assets/aeb05367-fd47-4329-aad2-fff59c574b19" />
 
 
 Stripe Checkout <img width="1278" height="572" alt="image" src="https://github.com/user-attachments/assets/12788703-c44e-469d-af52-094ece2d9555" />
