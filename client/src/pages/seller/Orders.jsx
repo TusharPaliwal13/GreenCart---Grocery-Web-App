@@ -57,15 +57,16 @@ const Orders = () => {
                 alt="boxIcon"
               />
               <div>
-                {order.items.map((item, index) => (
-                  <div key={index} className="flex flex-col ">
-                    <p className="font-medium">
-                      {item.product.name}{" "}
-                      <span className="text-primary">x {item.quantity}</span>
-                    </p>
-                  </div>
-                ))}
-              </div>
+  {order.items.map((item, index) => (
+    <div key={index} className="flex flex-col ">
+      <p className="font-medium">
+        {item.product?.name || "Product deleted"}{" "}
+        <span className="text-primary">x {item.quantity}</span>
+      </p>
+    </div>
+  ))}
+</div>
+
             </div>
 
             <div className="text-sm md:text-base text-black/60">
