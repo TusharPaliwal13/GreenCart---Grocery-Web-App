@@ -148,7 +148,7 @@ Sushil Lohar
 Linkedin - https://www.linkedin.com/in/sushil-lohar-90a33a25a | Github - https://github.com/code-with-sushil09
 
 Sumit Prajapat
-Linkedin - | Github -
+LinkedIn -https://www.linkedin.com/in/sumit-prajapat-7671a5259  | GitHub -https://github.com/Sumitprajapat1
 
 
 
